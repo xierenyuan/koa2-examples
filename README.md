@@ -10,13 +10,17 @@ npm test
 ```
 
 ## 参考 or 使用
-> (koa-generator)[https://github.com/17koa/koa-generator]
+> [koa-generator](https://github.com/17koa/koa-generator)
 
 ## 技术栈
-> koa (koa)[http://koajs.com/]
+> koa [koa](http://koajs.com/)          
 > 验证（transfer）[validator.js](https://github.com/guillaumepotier/validator.js)    [extend asserts](https://github.com/seegno/validator.js-asserts)  
 > sql [mysql2](https://github.com/sidorares/node-mysql2)   
-> sql 拼接 [squel](https://github.com/hiddentao/squel)  
+> sql 拼接 [squel](https://github.com/hiddentao/squel)    
+> es6     
+> mocha    
+> urllib   
+> log4js   
 ## vscode 代码提示
 ```javascript
 npm install -s @types/lodash
